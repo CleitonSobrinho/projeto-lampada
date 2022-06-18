@@ -25,7 +25,7 @@ function lampOff() {
 function broken() {
     lamp.src = './img/quebrada.jpg'
     
-}
+} 
 
 turnOn.addEventListener ('click', lampOn )
 turnOff.addEventListener ('click', lampOff )
